@@ -1,0 +1,4 @@
+ servo1.write(90);  //1
+  delay(200);
+    servo1.write(125);
+  delay(600);
